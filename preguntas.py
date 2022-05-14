@@ -302,3 +302,4 @@ def pregunta_13():
     suma = data.groupby("_c1")["_c5b"].sum()
     return suma
     
+    
